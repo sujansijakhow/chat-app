@@ -2,7 +2,6 @@
 import React from 'react'
 import { useState, useEffect, useRef } from 'react'
 import { supabase } from '../subaseClient'
-import { useCallback } from 'react';
 
 function App() {
 
